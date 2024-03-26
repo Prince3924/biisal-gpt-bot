@@ -1,6 +1,6 @@
 # Biisal GPT Bot
 
-Welcome to Biisal GPT Bot, a powerful AI chat bot created by @Biisal! This bot is designed to engage with users in conversation, providing intelligent responses and assistance across various topics.
+Welcome to Biisal GPT Bot, a powerful AI chat bot created by @backup_movies_hub1 This bot is designed to engage with users in conversation, providing intelligent responses and assistance across various topics.
 
 ## Features
 
@@ -17,7 +17,7 @@ Welcome to Biisal GPT Bot, a powerful AI chat bot created by @Biisal! This bot i
 
 ## Deployment
 
-Deploy the bot on Heroku with just a click: [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/biisal/biisal-gpt-bot)
+Deploy the bot on Heroku with just a click: [Deploy to Heroku](https://heroku.com/deploy)
 
 - **VARIABLES** :
 

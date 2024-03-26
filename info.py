@@ -1,4 +1,4 @@
-# ©️biisal jai shree krishna 😎
+# ©️ jai shree krishna 😎
 from os import environ
 
 API_ID = environ.get("API_ID", "")
